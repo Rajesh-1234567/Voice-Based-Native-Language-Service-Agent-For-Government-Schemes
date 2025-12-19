@@ -1,7 +1,3 @@
-Below is a **complete, professional, evaluator-ready README.md** that you can **copy-paste directly** into your repository.
-It explains **objective, architecture, agent workflow, setup, folders, tools, failure handling, and evaluation alignment** in detail.
-
----
 
 # 🎤 Hindi Government Voice Agent
 
@@ -42,7 +38,10 @@ Build a **native-language, voice-first AI agent** that can autonomously reason, 
 ✔️ **End-to-end runnable system**
 
 ---
+### High-Level Architecture Diagram
 
+![Agent Architecture](docs/agent_architecture.png)
+---
 ## 🗣️ Example User Flow
 
 **User:**
