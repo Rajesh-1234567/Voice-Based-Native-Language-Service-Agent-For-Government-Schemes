@@ -136,6 +136,11 @@ http://127.0.0.1:8000
 * Offline STT/TTS
 
 ---
+## 📐 Detailed Architecture & Design
+
+For a complete breakdown of system design, agent workflow, memory model, and implementation decisions,  
+see 👉 **[ARCHITECTURE.md](ARCHITECTURE.md)**.
+
 
 ## 🏁 Conclusion
 
